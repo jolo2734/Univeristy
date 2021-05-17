@@ -1,0 +1,3 @@
+Total time of served: 9s
+Average execution time per one process: 1.8s
+Average waiting time per one process: 0s
