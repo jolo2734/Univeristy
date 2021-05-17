@@ -2,7 +2,7 @@ import json
 import meraki
 
 
-API_KEY = 'aba6fd0a68d9fc6cc2449ed006b211f6ce2fc988'
+API_KEY = ''
 network_id = 'L_676102894059001853'
 
 dashboard = meraki.DashboardAPI(API_KEY)
