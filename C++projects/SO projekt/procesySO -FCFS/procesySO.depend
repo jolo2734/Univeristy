@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1579892249 source:c:\users\gruby\desktop\studia\so projekt\procesyso\main.cpp
+	<iostream>
+	"procesy.h"
+
+1579892346 c:\users\gruby\desktop\studia\so projekt\procesyso\procesy.h
+	<iostream>
+	<vector>
+
+1579892327 source:c:\users\gruby\desktop\studia\so projekt\procesyso\procesy.cpp
+	"procesy.h"
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<vector>
+
+1580075381 source:c:\users\gruby\desktop\studia\so projekt\procesyso -fcfs\procesy.cpp
+	"procesy.h"
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<vector>
+	<string>
+
+1579914284 c:\users\gruby\desktop\studia\so projekt\procesyso -fcfs\procesy.h
+	<iostream>
+	<vector>
+
+1580076148 source:c:\users\gruby\desktop\studia\so projekt\procesyso -fcfs\main.cpp
+	<iostream>
+	"procesy.h"
+	<algorithm>
+	<windows.h>
+	<cstdlib>
+	<ctime>
+
+1580055406 source:c:\users\barte\c++projects\so projekt\procesyso -fcfs\main.cpp
+	<iostream>
+	"procesy.h"
+	<algorithm>
+	<windows.h>
+	<cstdlib>
+	<ctime>
+	<fstream>
+
+1580055406 c:\users\barte\c++projects\so projekt\procesyso -fcfs\procesy.h
+	<iostream>
+	<vector>
+
+1580055406 source:c:\users\barte\c++projects\so projekt\procesyso -fcfs\procesy.cpp
+	"procesy.h"
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<vector>
+	<string>
+

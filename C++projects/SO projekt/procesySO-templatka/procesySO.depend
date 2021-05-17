@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1579892249 source:c:\users\gruby\desktop\studia\so projekt\procesyso\main.cpp
+	<iostream>
+	"procesy.h"
+
+1579892346 c:\users\gruby\desktop\studia\so projekt\procesyso\procesy.h
+	<iostream>
+	<vector>
+
+1579892327 source:c:\users\gruby\desktop\studia\so projekt\procesyso\procesy.cpp
+	"procesy.h"
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<vector>
+
