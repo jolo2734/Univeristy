@@ -1,0 +1,14 @@
+QUIZ
+You can add as many questions as you want to the text file "quiz.txt"
+
+Rules of writing new question:
+	-no spaces(even between questions)
+	-every question 6 lines:
+		1. The content of the question
+		2. Answer A
+		3. Answer B
+		4. Answer C
+		5. Answer D
+		6. Lowercase letter that indicates a good answer
+
+I will add new features in future. Enjoy :)
